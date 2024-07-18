@@ -10,13 +10,17 @@ I Coded a number guessing game which has the user guess a number between 1-10 ti
 I Coded a calculator which uses the four operations and will send a error message if you try and divide by 0, code is very similar to number guessing game but is longer. Used Replit and Python.
 ### Calculator Bugs
 1.Cannot divide by 0, results in error
+
 2.only can calculate two number inputs
+
 3. Open to be able to add more features on the calculator
 
 ## Logo
 I Designed a logo using canva for a made up buisness called "Washaway" which is a company that produces the most exotic tropical drinks that has you hydrated anytime and anywhere.
 ## Poster
-I Had also created a poster for said made up buisness highlighting their signatures and the limited deals the store has to offer to them. This was used from a blank template in Canva.
+I Had also created a poster for said made up buisness highlighting their signatures and the limited deals the store has to offer to them. This was used from a blank
+template in Canva.
+
 
 
 
