@@ -37,7 +37,9 @@ I learned that going outside more often and drinking more water are the best way
 ## Project Management
 The certificate below shows the completion of the Project Management Course found on the Pinnguaq website. This certificate proves my knowledge of the two types of ways a project can be Handled from (Projects In Controlled Enviorments) PRINCE2 (Which falls under the waterfall method) and Scrum(falls under the agile method)
 [Project Management Certificate](https://github.com/user-attachments/files/16292241/bluesingh975gmail-com-19378-20002-20240713-8a77efaebb.1.pdf)
-
+## Squishy's aMAZEing Stroll
+A Game that follows a small snail by the name of Squishy, He's out for a nice walk but he has to watch for pesky children who never watch their steps around him. He finds a marble which he immediately loses so help him find it and avoid the children! It might seem like a small reward but there could be more :)
+![arcade-Squishys-aMAZEing-Stroll](https://github.com/user-attachments/assets/9b07ec0e-52d3-4bfc-90fe-f06a73a5dc38)
 
 
 
