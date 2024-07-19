@@ -39,7 +39,8 @@ The certificate below shows the completion of the Project Management Course foun
 [Project Management Certificate](https://github.com/user-attachments/files/16292241/bluesingh975gmail-com-19378-20002-20240713-8a77efaebb.1.pdf)
 ## Squishy's aMAZEing Stroll
 A Game that follows a small snail by the name of Squishy, He's out for a nice walk but he has to watch for pesky children who never watch their steps around him. He finds a marble which he immediately loses so help him find it and avoid the children! It might seem like a small reward but there could be more :)
-![arcade-Squishys-aMAZEing-Stroll](https://github.com/user-attachments/assets/9b07ec0e-52d3-4bfc-90fe-f06a73a5dc38)
+![arcade-Squishys-aMAZEing-Stroll (1)](https://github.com/user-attachments/assets/a737e3ce-657a-4472-92f9-eb7c6b73005c)
+
 
 
 
