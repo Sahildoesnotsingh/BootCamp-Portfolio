@@ -43,7 +43,7 @@ A Game that follows a small snail by the name of Squishy, He's out for a nice wa
 ### Bugs with the game
 1. The lily tile kills all enemies, even the ones that did not touch the lily tile, it should only kill the enemy who touched the lily
 2. The chest which if touched unlocks the secret ending, however the game does not end when you hit the chesss, only the marble. You must touch both chest and marble to get this ending which is not how I want it to be designed. If it would be designed like this I would like it so you would have to not die in order to touch the marble after the chest unlocking the secret ending because if you die after touching the chest, you are back to the start and can still touch the marble granting the secret ending. I would not like to give a gameover to the player, just for the player to have to touch both marble and chest in one go without dieing.
-3. Also would like a way to make the secret exit area not visible until you go through the entrance
+3. Also would like a way to make the secret exit area not visible until you go through the entrance and when there make it so that the main path can not be seen .
 
 
 
