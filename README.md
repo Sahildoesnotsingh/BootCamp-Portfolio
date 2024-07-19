@@ -40,7 +40,9 @@ The certificate below shows the completion of the Project Management Course foun
 ## Squishy's aMAZEing Stroll
 A Game that follows a small snail by the name of Squishy, He's out for a nice walk but he has to watch for pesky children who never watch their steps around him. He finds a marble which he immediately loses so help him find it and avoid the children! It might seem like a small reward but there could be more :)
 ![arcade-Squishys-aMAZEing-Stroll (1)](https://github.com/user-attachments/assets/a737e3ce-657a-4472-92f9-eb7c6b73005c)
-
+### Bugs with the game
+1. The lily tile kills all enemies, even the ones that did not touch the lily tile, it should only kill the enemy who touched the lily
+2. The chest which if touched unlocks the secret ending, however the game does not end when you hit the chesss, only the marble. You must touch both chest and marble to get this ending which is not how I want it to be designed. If it would be designed like this I would like it so you would have to not die in order to touch the marble after the chest unlocking the secret ending because if you die after touching the chest, you are back to the start and can still touch the marble granting the secret ending. I would not like to give a gameover to the player, just for the player to have to touch both marble and chest in one go without dieing.
 
 
 
