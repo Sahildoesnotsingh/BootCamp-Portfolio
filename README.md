@@ -34,6 +34,13 @@ template in Canva.
 The graph below is made up of Data I had put in rather then extracted from another data library. It is a heatmap that shows which variables Increase eating snacks and what variables decrease eating snacks along with their correlation to each other and see which varaibles make each other better. The purpose of this graph was to fix my eating habits and do other things that will distract me from eating my heart out.
 ![Heatmap of what causes me to eat more snacks](https://github.com/user-attachments/assets/3c5359e5-dae5-4931-a596-83682ef27329)
 I learned that going outside more often and drinking more water are the best ways to make sure I do not eat so much food from looking at the heatmap above.
+## Project Management
+The certificate below shows the completion of the Project Management Course found on the Pinnguaq website. This certificate proves my knowledge of the two types of ways a project can be Handled from (Projects In Controlled Enviorments) PRINCE2 (Which falls under the waterfall method) and Scrum(falls under the agile method)
+[Project Management Certificate](https://github.com/user-attachments/files/16292241/bluesingh975gmail-com-19378-20002-20240713-8a77efaebb.1.pdf)
+
+
+
+
 
 
 
